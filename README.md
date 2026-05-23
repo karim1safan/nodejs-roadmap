@@ -44,9 +44,18 @@ _By the end of this level, the learner should know_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=q3yFo-t1ykw">Abdelrahman Gamal (HTML Crash Course)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=Z-5QVutAEW4">Abdelrahman Gamal (CSS Crash Course)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a></li>
+                    <li>
+                        <a href="https://youtu.be/qfPUMV9J5yw?si=jbUH0jPzcpe9EMu5">Elzero Web School (HTML Crash Course)</a>
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
+                    <li>
+                        <a href="https://youtu.be/qyVkLebgfzY?si=k7jEqsa0WXVWvqNC">Elzero Web School (CSS Crash Course)</a>
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a>
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -69,7 +78,10 @@ _By the end of this level, the learner should know_
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=rQKJFlsifR8">GeekHood (What is a database?)</a></li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=rQKJFlsifR8">GeekHood (What is a database?)</a>
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                     <li><a href="https://www.youtube.com/watch?v=WWazrq7ZC8E">JobStack (SQL vs NoSQL Databases)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
@@ -138,7 +150,10 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [1:30]</li>
+                    <li>
+                        <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [1:30]
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -160,7 +175,10 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [31:56]</li>
+                    <li>
+                        <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [31:56]
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -184,7 +202,10 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [57:85]</li>
+                    <li>
+                        <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [57:85]
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                     <li><a href="https://www.youtube.com/watch?v=XrCMAmxGA7o">Shadow Coding (Hoisting)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
