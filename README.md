@@ -322,7 +322,10 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [1:3]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [1:6]</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub">Takhareef Mobarmeg</a> [1:20]</li>
+                    <li>
+                        <a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub">Takhareef Mobarmeg</a> [1:20]
+                        <span style="color: #2ecc71; font-weight: bold; margin-left: 10px;">✓ Completed</span>
+                    </li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
